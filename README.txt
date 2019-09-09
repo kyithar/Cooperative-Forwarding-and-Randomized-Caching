@@ -1,4 +1,6 @@
-                  / _____)_	      
+I modify the ccnSim simulation code to run "Cooperative-Forwarding-and -Randomized-Caching" scheme.
+
+		  / _____)_	      
   ____ ____ ____ ( (____ (_)_ __ ___  
  / ___) ___)  _ \ \____ \| | '_ ` _ \ 
 ( (__( (___| | | |_____) | | | | | | |
